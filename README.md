@@ -19,15 +19,15 @@
 
 > Fill out project information in English ⬇️
 ### Student Name
-
+Ghalia AlOtaibi
 
 ### Project Name
-
+q8spot
 # Idea
 Problem and solutions if found 
-
+an application/program that includes the complexes of Kuwait with its details
 
 # Future Work 
-
+in future, we aim to add the parking reservation feature
 
 
